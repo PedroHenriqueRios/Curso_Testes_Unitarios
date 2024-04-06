@@ -1,0 +1,5 @@
+Repository\UsuarioRepository.class
+Exception\ValidationException.class
+Domain\Conta.class
+Domain\Usuario.class
+Calculadora.class
